@@ -25,6 +25,6 @@ Por último, cada jugador conectado, se verá en la pantalla de cada cliente. Ca
 &nbsp;
 [Backlog](https://algoritms-and-data-structures-project1.atlassian.net/jira/software/projects/PI/boards/5/backlog)
 
-##Diseño
+## Diseño
 
-##Mejoras al proyecto
+## Mejoras al proyecto
