@@ -19,3 +19,8 @@ El servidor actualiza a los demás clientes enviándoles el evento realizado por
 También en este proyecto se deben implementar dos nuevas clases de enemigos la cual una  está conformada por hileras la cuales están creadas a partir de árboles binarios de búsqueda y mientras tanto la otra esta conformada por la estructura de datos AVL. La hilera formada por árboles binarios de búsqueda deberá tener enemigos que tienen un identificador random que permite insertarlos en un árbol según dicho valor y visualmente se verá como un árbol BST.
 Mientras tanto el árbol AVL no tiene forma visual de árbol solo es implementarlo con esa estructura.
 Por último, cada jugador conectado, se verá en la pantalla de cada cliente. Cada movimiento que realice, deberá reflejarse en todos los clientes.
+
+## Link a Jira
+[Jira](https://algoritms-and-data-structures-project1.atlassian.net/jira/software/projects/PI/boards/5)
+&nbsp;
+[Backlog](https://algoritms-and-data-structures-project1.atlassian.net/jira/software/projects/PI/boards/5/backlog)
