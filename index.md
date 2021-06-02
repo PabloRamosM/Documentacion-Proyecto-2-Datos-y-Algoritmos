@@ -27,4 +27,11 @@ Por último, cada jugador conectado, se verá en la pantalla de cada cliente. Ca
 
 ## Diseño
 
+### Diagrama de clases 
+![Diagrama del juego](imgs/Diagrama del juego.png)
+
+### Diagrama del Servidor y Cliente
+
+![Diagrama del Servidor y Cliente](imgs/Diagrama del Servidor y Cliente.png)
+
 ## Mejoras al proyecto
