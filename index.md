@@ -3,6 +3,8 @@
 ## Integrantes del grupo:
 * Aguero Barboza Marco
 * Ramos Madrigal Jose Pablo
+* Melissa Oviedo Huertas 
+* Calderon Bran Valerin Kasandra 
 
 ## Profesor
 * Ing. Isaac Ramírez, M.SI.
