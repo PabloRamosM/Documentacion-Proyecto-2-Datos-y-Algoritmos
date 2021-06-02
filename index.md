@@ -37,6 +37,7 @@ Por último, cada jugador conectado, se verá en la pantalla de cada cliente. Ca
 ## Mejoras al proyecto
 Primero se deshizo de la lógica de creación de filas de aliens, debido a que en el primer proyecto se tenían que instanciar  varias veces cada vez que se quería crear una nueva fila de aliens, por lo que se implanto el patrón de fábrica para los aliens, además los aliens heredan de una solo clase abstracta llamada AbsAliens. Además, para el control del juego se creo una clase encargada de esta llamada Handler que es la encargada de manejar los objetos del juego por ejemplo esta clase posee los métodos de eliminar enemigos, añadir enemigos, renderizar los enemigos, por lo tanto, Handler tiene la función de ser una fábrica de aliens.
 &nbsp;
+
 Además, se mejoró en el movimiento del jugador para que fuera más estable y además se mejoro la lógica de disparo para que sea mas fluido y que no genere errores o bugs visuales a la hora de disparar la bala. También se implemento una clase abstracta para el jugador la cual se llama GameObject.
 &nbsp;
 También para la mejora del proyecto original, se trató de tener separado todas la carpetas, clases y métodos con nombres significativos a la función que realizan, además se trató las carpetas de Server, Clientes, Core como si fuera proyecto independiente y creando dependencias entre proyectos mediante Gradle.
