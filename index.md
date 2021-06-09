@@ -25,9 +25,9 @@ Mientras tanto el árbol AVL no tiene forma visual de árbol solo es implementar
 Por último, cada jugador conectado, se verá en la pantalla de cada cliente. Cada movimiento que realice, deberá reflejarse en todos los clientes.
 
 ## Link a Jira
-[Jira](https://algoritms-and-data-structures-project1.atlassian.net/jira/software/projects/PI/boards/5)
+[Jira](https://pablorm.atlassian.net/jira/software/projects/PD2/boards/6)
 &nbsp;
-[Backlog](https://algoritms-and-data-structures-project1.atlassian.net/jira/software/projects/PI/boards/5/backlog)
+[Backlog](https://pablorm.atlassian.net/jira/software/projects/PD2/boards/6/backlog)
 
 ## Diseño
 
